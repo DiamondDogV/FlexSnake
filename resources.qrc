@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>buttonPNG/liquid.png</file>
+        <file>buttonPNG/ocelot.png</file>
+        <file>buttonPNG/solidus.png</file>
+        <file>buttonPNG/solid.png</file>
+        <file>buttonPNG/solid_disabled.png</file>
+        <file>buttonPNG/liquid_disabled.png</file>
+        <file>buttonPNG/solidus_disabled.png</file>
+    </qresource>
+</RCC>
